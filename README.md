@@ -9,7 +9,7 @@ Bora lá 💪
 ### 📝 Cursos gratuitos de CSS
 <ul>
   <li><a href="https://app.rocketseat.com.br/node/o-guia-estelar-de-css" target="_blank" title="Flexbox Froggy">Guia estelar da rocketseat</a></li>
-  <li><a href="https://www.origamid.com/curso/css-flexbox" target="_blank" title="CSS Grid Garden">CSS Grid Garden</a></li>
+  <li><a href="https://www.origamid.com/curso/css-flexbox" target="_blank" title="CSS flexbox Origamid">Curso de Flex da Origamid</a></li>
 </ul>
 
 
